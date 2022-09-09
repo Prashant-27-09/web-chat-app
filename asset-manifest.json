@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/web-chat-app/static/css/main.99e4aaef.css",
+    "main.js": "/web-chat-app/static/js/main.190969cb.js",
+    "static/js/787.9df3cdb1.chunk.js": "/web-chat-app/static/js/787.9df3cdb1.chunk.js",
+    "static/media/wp4410716-chat-wallpapers.jpg": "/web-chat-app/static/media/wp4410716-chat-wallpapers.c260b7f182070b0f7777.jpg",
+    "index.html": "/web-chat-app/index.html",
+    "main.99e4aaef.css.map": "/web-chat-app/static/css/main.99e4aaef.css.map",
+    "main.190969cb.js.map": "/web-chat-app/static/js/main.190969cb.js.map",
+    "787.9df3cdb1.chunk.js.map": "/web-chat-app/static/js/787.9df3cdb1.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.99e4aaef.css",
+    "static/js/main.190969cb.js"
+  ]
+}
