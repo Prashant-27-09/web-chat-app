@@ -32,7 +32,7 @@ const [messages, setMessages] = useState([]);
   
 
   return !addNewChat ? (
-    <Link key={id} to={`/rooms/${id}`}>
+    <Link to={`/rooms/${id}`}>
       <div className='sidebarchat'>
         <Avatar src={`https://avatars.dicebear.com/api/human/${Math.floor(Math.random()*5000)}.svg`}/>
         <div className='sidebarChat__info'>
